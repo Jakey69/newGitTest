@@ -19,6 +19,8 @@ char *p = t;
 return p;
 }
 
+/* Jerry Added some new function */
+
 int main(void)
 {
  int i;
