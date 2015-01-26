@@ -20,6 +20,7 @@ return p;
 }
 
 /* Jerry Added some new function */
+/* Tom made some change on the same line */
 
 int main(void)
 {
